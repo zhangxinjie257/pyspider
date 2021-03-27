@@ -5,7 +5,7 @@
 #         http://binux.me
 # Created on 2014-11-24 22:27:45
 
-
+import os
 import sys
 from setuptools import setup, find_packages
 from codecs import open
